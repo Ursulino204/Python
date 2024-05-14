@@ -4,7 +4,7 @@ C = int
 D = int
 
 A = 3
-B = 2^A
+B = 2 ** A
 C = 2
 
 if B <= 9: 
