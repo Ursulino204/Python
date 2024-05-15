@@ -1,7 +1,3 @@
-A = int
-B = int
-C = int
-D = int
 
 A = 3
 B = 2 ** A
@@ -15,4 +11,3 @@ else:
 D = B + C - A
 
 print(A , B , C , D)
-
