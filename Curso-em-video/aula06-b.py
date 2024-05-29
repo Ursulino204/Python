@@ -1,3 +1,5 @@
+num1 = int(input('Digite algo: '))
+num2 = int(input('Digite algo: '))
 
-num1 = input('Digite algo: ')
-print(type(num1))
+s = num2 * num2
+print(f'O produto é: ', s)
